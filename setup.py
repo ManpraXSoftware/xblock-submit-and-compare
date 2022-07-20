@@ -107,6 +107,7 @@ setup(
             'scenarios/*.xml',
             'static/*',
             'templates/*',
+            'mixins/*'
         ],
     },
     classifiers=[
